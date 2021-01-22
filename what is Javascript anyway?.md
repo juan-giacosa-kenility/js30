@@ -12,3 +12,14 @@ JavaScript documentation of core language features (pure ECMAScript, for the mos
 - _'You don´t know Javascript'_ by Kyle Simpson is a free book [available on Github](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
 If you are new to JavaScript, start with the guide. Once you have a firm grasp of the fundamentals, you can use the reference to get more details on individual objects and language constructs.
+
+## How to learn JavaScript
+
+To learn JavaScript, there are some things you need to know:
+
+1. _Where are you with regards to JavaScript?_  If you learn something too simple, you’ll get bored. If you learn something too advanced, you’ll get overwhelmed. Don't BS yourself. You just don't know what you don't know, but I'm pretty confident you do know what you know. 
+
+
+### Sources
+- [Learning javascript - where should you start and what to do when you're stuck?](https://zellwk.com/blog/how-to-learn-javascript/)
+
