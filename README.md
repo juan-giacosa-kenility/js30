@@ -20,7 +20,7 @@ Going along the words of Jenn Lukas on [You don`t know Javascript by Kyle Simpso
 
 ## Aknowledgments 
 
-This course is inspired by and based on [The odin project](https://www.theodinproject.com/), I strongly suggest you enroll in It if you want to dive deep into learning javascript. Wanna read more? head over to [[sources](#sources). 
+This course is inspired by and based on [The odin project](https://www.theodinproject.com/), I strongly suggest you enroll in It if you want to dive deep into learning javascript. Wanna read more? head over to [sources](#sources). 
 
 
 ## Summary
