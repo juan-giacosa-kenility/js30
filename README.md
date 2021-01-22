@@ -37,3 +37,10 @@ This series contain a bunch of information and whole passages from other sites, 
 - [The odin project](https://www.theodinproject.com/)
 - [Javascript info](https://javascript.info/)
 
+Even though I haven't actually uploaded a bit from these sites, there's no way I'm not aknowledging these great partners of every developer for their neverending source of information:
+
+- [Stack overflow](https://stackoverflow.com/questions/2687566/learning-javascript-in-one-weekend)
+- [Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2)
+
+I'll keep adding more sources as I come across with them. 
+
