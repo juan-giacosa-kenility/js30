@@ -9,6 +9,6 @@ JavaScript documentation of core language features (pure ECMAScript, for the mos
 
 - [The JavaScript guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [The javascript reference](https://devdocs.io/javascript/index)
-- You don´t know Javascript by Kyle Simpson is a free book [available on Github](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
+- _'You don´t know Javascript'_ by Kyle Simpson is a free book [available on Github](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
 If you are new to JavaScript, start with the guide. Once you have a firm grasp of the fundamentals, you can use the reference to get more details on individual objects and language constructs.
